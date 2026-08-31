@@ -3,6 +3,8 @@ I am Arun Kumar T N
 
 
 I am a Lead QA Test Engineer
+
+I have worked on multiple projects using different technologies & skill sets, including Selenium with Java and C#, API Testing, Manual Testing, the Cucumber Framework, and Playwright.
 <!--
 **aruntn612-sudo/aruntn612-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
