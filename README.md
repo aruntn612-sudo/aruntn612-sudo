@@ -7,6 +7,7 @@ I am a Lead QA Test Engineer
 **aruntn612-sudo/aruntn612-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I worked on multiple projects using different technologies & skill sets, including Selenium with Java and C#, API Testing, Manual Testing, Cucumber Framework, and Playwright.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
